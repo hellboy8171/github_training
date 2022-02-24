@@ -1,0 +1,24 @@
+Book Information in library 1:
+ - book_name : The Alchemist #Key-Value
+   ISBN : 0000  
+   Author : Paulo Coelho
+   Language: English
+
+ - book_name : Her Last Wish #Key-Value
+   ISBN : 0001  
+   Author : Mr. Ajey Kumar
+   Language: English
+   
+Book Information in library 2:
+ - book_name: Prachin Bharat
+   ISBN: 1647
+   Author: Ramsharan Sharma
+   Language: Hindi
+
+ - book_name: Prachin Bharat Ka Itihas
+   ISBN: 345
+   Author: S. Chand
+   Language: Hindi
+
+
+

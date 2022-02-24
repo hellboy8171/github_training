@@ -1,0 +1,32 @@
+Web Series Information:
+ - Name: Games Of thrones
+   No_of_seasons: 8
+   Favourite_characters:
+   - John Snow
+   - Arya Stark
+   - Denerys Targaryen
+   IMDB: 9.2
+
+ - Name: Vinkings
+   No_of_seasons: 6
+   Favourite_characters:
+    - Ragnar
+    - Lagertha
+    - Bjorn Lothbrok
+   IMDB: 8.5
+
+Anime Informaton:
+ - Name: Attack on Titans
+   No_of_seasons: 5
+   
+   Favourite_characters:
+    - Levi
+    - Eren Yeager
+    - Mikasa Ackermen
+   IMDB: 8.3
+
+  
+ - Name: My Hero Academia
+   No_of_seasons: 5
+   Favourite_characters: [Midory, Ururaka, AllMight]
+   IMDB: 8.5

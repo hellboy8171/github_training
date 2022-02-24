@@ -1,0 +1,5 @@
+--- #Intilaization of YAML
+book_name : The Alchemist #Key-Value
+ISBN : 0000  
+Author : Paulo Coelho
+... # End of the YAML File
